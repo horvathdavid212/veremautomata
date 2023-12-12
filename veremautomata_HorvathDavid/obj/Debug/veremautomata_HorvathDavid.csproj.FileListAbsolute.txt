@@ -1,0 +1,11 @@
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\bin\Debug\veremautomata_HorvathDavid.exe.config
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\bin\Debug\veremautomata_HorvathDavid.exe
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\bin\Debug\veremautomata_HorvathDavid.pdb
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.csproj.AssemblyReference.cache
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.csproj.SuggestedBindingRedirects.cache
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.Form1.resources
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.Properties.Resources.resources
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.csproj.GenerateResource.cache
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.csproj.CoreCompileInputs.cache
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.exe
+C:\Users\csimp\Desktop\Eger PTI 5.fé\formális nyelvek és automaták\veremautomata_HorvathDavid\obj\Debug\veremautomata_HorvathDavid.pdb
